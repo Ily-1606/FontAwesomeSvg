@@ -3,7 +3,7 @@
 
 Download svg files from FontAwesome.com to local
 
-More 7.865 svgs file from Fontawesome (Pro + Free)
+More 7.865 svg files from Fontawesome (Pro + Free)
 
 Includes: 
 - fas
