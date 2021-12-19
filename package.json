@@ -1,0 +1,18 @@
+{
+  "name": "FontAwesomsesvg",
+  "version": "5.15",
+  "description": "Save all file svg from Fontawesome.com to local",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "keywords": [
+    "fontawesome",
+    "svg fontawesome",
+    "icon fontawesome",
+    "save fontawesome",
+    "download icon fontawesome"
+  ],
+  "author": "Ily1606",
+  "license": "ISC"
+}
